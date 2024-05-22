@@ -13,8 +13,8 @@ Este projeto é uma aplicação simples para gerenciar corridas, permitindo cria
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/gerador-de-corridas.git
-   cd gerador-de-corridas
+   git clone https://github.com/marquiiis/projeto.git
+   cd projeto
 
 
 ## Instale as dependências do Composer:
